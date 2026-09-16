@@ -14,10 +14,10 @@ Todas las practicas seran en python ( a no ser que el profesor diga lo contrario
 </details>
 <details>
 
-<summary>Porque en Github?</summary>
+<summary>Porque en Github🤔?</summary>
 
   
-Te preguntaras porque he decidido hacerlo en github pages
+Te preguntaras porque he decidido hacerlo en Github pages
 
 
 Lo estoy haciendo aqui porque he visto que tiene muchisimo potencial
