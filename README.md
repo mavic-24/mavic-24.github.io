@@ -4,7 +4,7 @@
 
 bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica
 
-<details>
+</details>
 <br>
 
   
@@ -16,4 +16,4 @@ bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica
 
 
 trabajo 2
-<details>
+</details>
