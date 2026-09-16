@@ -10,11 +10,11 @@ Aqui veras mis trabajos de informatica.
 Todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://es.python.org/)
-<details>
 </details>
-
-
+<br>
+<details>
 <summary>Porque en Github🤔?</summary>
+
 
   
 Te preguntaras porque he decidido hacerlo en Github pages
@@ -27,8 +27,9 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 </details>
 <br>
 
-  
 <details>
+
+
   
 <summary>trabajos</summary>
 
