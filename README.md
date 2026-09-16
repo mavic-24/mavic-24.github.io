@@ -19,7 +19,9 @@ Todas las practicas seran en python ( a no ser que el profesor diga lo contrario
   
 Te preguntaras porque he decidido hacerlo en github pages
 
+
 Lo estoy haciendo aqui porque he visto que tiene muchisimo potencial
+
 
 Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como programador 
 </details>
