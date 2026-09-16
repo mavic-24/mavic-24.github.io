@@ -3,7 +3,7 @@
 
 
 bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica. Aqui todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
-[![My Skills](https://skillicons.dev/iconspy,wasm)](https://skillicons.dev)
+(https://skillicons.dev/iconspy,wasm)]
 </details>
 <br>
 
