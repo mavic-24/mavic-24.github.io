@@ -6,6 +6,6 @@ bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica
 <details>
 <summary>trabajos</summary>
 
-- [Actividad 0](HTML/actividad1.html)
+ejercicio0 (actividades 1º trimestre/ejercicio_00.py)
 trabajo 2
 </details>
