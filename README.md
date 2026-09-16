@@ -6,6 +6,6 @@ bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica
 <details>
 <summary>trabajos</summary>
 
-</> Markdown 
+- [Actividad 0](HTML/actividad1.html)
 trabajo 2
 </details>
