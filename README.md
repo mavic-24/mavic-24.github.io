@@ -15,7 +15,7 @@ Todas las practicas seran en python ( a no ser que el profesor diga lo contrario
 <details>
 <summary>Porque en Github🤔?</summary>
 
-
+<br>
   
 Te preguntaras porque he decidido hacerlo en Github pages
 
