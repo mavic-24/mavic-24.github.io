@@ -1,8 +1,8 @@
-                                                  MI PORTAFOLIO 📜
+# Mi Portafolio 📜                                     
 
 
 <details>
-<summary>sobre mi</summary>
+<summary>Sobre mi</summary>
 <br>
 
 Bienvenido a mi portafolio 😀
@@ -34,7 +34,9 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 
   
-<summary>trabajos</summary>
+<summary>📖Trabajos y actividades</summary>
+
+### 📚 1º Trimestre
 
 [Ejercicio 00](actividades%201%C2%BA%20trimestre/ejercicio_00.py)
 
