@@ -1,6 +1,6 @@
 <details>
 <summary>sobre mi</summary>
-
+<br>
 
 bienvenido a mi portafolio 😀, aqui veras mis trabajos de informatica. Aqui todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
 
