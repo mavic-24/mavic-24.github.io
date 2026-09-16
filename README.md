@@ -13,6 +13,10 @@ Aqui veras mis trabajos de informatica.
 Todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://es.python.org/)
+
+He de decir que todo lo que se ve aqui es fruto de la busqueda de informacion continua
+
+Asique no, no soy un genio, solo un tio con mucho tiempo (por lo menos aprendo algo, eso es positivo)
 </details>
 <br>
 <details>
