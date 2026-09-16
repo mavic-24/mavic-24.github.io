@@ -5,7 +5,9 @@
 Bienvenido a mi portafolio 😀
 
 
-aqui veras mis trabajos de informatica. Aqui todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
+Aqui veras mis trabajos de informatica.
+
+Todas las practicas seran en python ( a no ser que el profesor diga lo contrario ) 
 
 [![My Skills](https://skillicons.dev/icons?i=py)](https://es.python.org/)
 </details>
