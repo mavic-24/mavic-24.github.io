@@ -1,5 +1,5 @@
 <details>
-<summary>🌐 HTML</summary>
+<summary>trabajos</summary>
 
 
 trabajo 1
