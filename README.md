@@ -44,5 +44,8 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Ejercicio 00](actividades%201%C2%BA%20trimestre/ejercicio_00.py)
 
+[Ejercicio 01_ID](actividades%201%C2%BA%20trimestre/Lista%20de%20actividades%20del%20primer%20ejercicio%20sobre%20la%20identidad-1.pdf)
 
-[Ejercicio 00] (actividades 1º trimestre/Lista de actividades del primer ejercicio sobre la identidad-1.pdf)
+
+
+
