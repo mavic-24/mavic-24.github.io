@@ -45,5 +45,5 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 [Ejercicio 00](actividades%201%C2%BA%20trimestre/ejercicio_00.py)
 
 
-trabajo 2
+[Ejercicio 01_ID](actividades%201%C2%BA%20trimestre/ejercicio_00.py)
 </details>
