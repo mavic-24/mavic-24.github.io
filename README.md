@@ -46,6 +46,6 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Ejercicio 01_ID](actividades%201%C2%BA%20trimestre/Lista%20de%20actividades%20del%20primer%20ejercicio%20sobre%20la%20identidad-1.pdf)
 
-
+[Ejercicio_02_Excel](actividades%201%C2%BA%20trimestre/Ejercicios%20resueltos%282%29.xlsx)
 
 
