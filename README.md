@@ -64,8 +64,8 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Python_05](actividades%201%C2%BA%20trimestre/Python/python_05.zip)
 
-[Python_06.1]
+[Python_06.1](actividades%201%C2%BA%20trimestre/Python/python_06.1.zip)
 
-[Python_06.2]
+[Python_06.2](actividades%201%C2%BA%20trimestre/Python/python_06.2.zip)
 
-[Python_06.3]
+[Python_06.3](actividades%201%C2%BA%20trimestre/Python/python_06.3.zip)
