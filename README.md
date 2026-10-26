@@ -52,5 +52,6 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 <summary>Python</summary>
 <br>
 
+[Python_00](actividades%201%C2%BA%20trimestre/Python/python_00.zip)
 
 
