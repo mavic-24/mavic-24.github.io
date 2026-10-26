@@ -66,6 +66,6 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Python_06.1](actividades%201%C2%BA%20trimestre/Python/python_06.1.zip)
 
-[Python_06.2](actividades%201%C2%BA%20trimestre/Python/python_06.2.zip)
+[Python_06.2](actividades%201%C2%BA%20trimestre/Python/python_06.2.pdf)
 
-[Python_06.3](actividades%201%C2%BA%20trimestre/Python/python_06.3.zip)
+[Python_06.3](actividades%201%C2%BA%20trimestre/Python/python_06.3.png)
