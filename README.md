@@ -48,4 +48,9 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Ejercicio_02_Excel](actividades%201%C2%BA%20trimestre/Ejercicios%20resueltos%282%29.xlsx)
 
+<details>
+<summary>Python</summary>
+<br>
+
+
 
