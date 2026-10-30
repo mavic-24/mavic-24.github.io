@@ -72,4 +72,4 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Python_09.0](actividades%201%C2%BA%20trimestre/Python/python_09.0.py)
 
-[Python_09.if](actividades%201%C2%BA%20trimestre/Python/python_09.if.todo.py)
+[Python_09.if](actividades%201%C2%BA%20trimestre/Python/python_09.if.todos.py)
