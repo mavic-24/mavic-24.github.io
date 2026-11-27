@@ -112,7 +112,7 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 
 [Python_16.1](actividades%201%C2%BA%20trimestre/Python/python_16.1.py)
 
-[Python_16](actividades%201%C2%BA%20trimestre/Python/python_16.2(repaso).py)
+[Python_16.2](actividades%201%C2%BA%20trimestre/Python/python_16.2(repaso).py)
 
 [Python_17](actividades%201%C2%BA%20trimestre/Python/python_17.py)
 
