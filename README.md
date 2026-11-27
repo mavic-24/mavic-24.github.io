@@ -93,3 +93,27 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 [Python_14.3](actividades%201%C2%BA%20trimestre/Python/python_14.3.py)
 
 [Python_14.4](actividades%201%C2%BA%20trimestre/Python/python_14.4.py)
+
+[Python_14.5](actividades%201%C2%BA%20trimestre/Python/python_14.5.py)
+
+[Python_14.6](actividades%201%C2%BA%20trimestre/Python/python_14.6.py)
+
+[Python_14.7](actividades%201%C2%BA%20trimestre/Python/python_14.7.py)
+
+[Python_14.8](actividades%201%C2%BA%20trimestre/Python/python_14.8.py)
+
+[Python_14.9](actividades%201%C2%BA%20trimestre/Python/python_14.9.py)
+
+[Python_14.10](actividades%201%C2%BA%20trimestre/Python/python_14.10.py)
+
+[Python_15](actividades%201%C2%BA%20trimestre/Python/python_15.py)
+
+[Python_16](actividades%201%C2%BA%20trimestre/Python/python_16.py)
+
+[Python_16.1](actividades%201%C2%BA%20trimestre/Python/python_16.1.py)
+
+[Python_16](actividades%201%C2%BA%20trimestre/Python/python_16.2(repaso).py)
+
+[Python_17](actividades%201%C2%BA%20trimestre/Python/python_17.py)
+
+[Python_17.1](actividades%201%C2%BA%20trimestre/Python/python_17.1.py)
