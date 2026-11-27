@@ -75,3 +75,21 @@ Y aunque yo no pueda explotarlo todo, es una gran oportunidad de mejorar como pr
 [Python_09.if](actividades%201%C2%BA%20trimestre/Python/python_09.if.todos.zip)
 
 [Python_10](actividades%201%C2%BA%20trimestre/Python/python_10.0.py)
+
+[Python_10.1](actividades%201%C2%BA%20trimestre/Python/python_10.1.py)
+
+[Python_11](actividades%201%C2%BA%20trimestre/Python/python_11.py)
+
+[Python_12](actividades%201%C2%BA%20trimestre/Python/python_12.py)
+
+[Python_13](actividades%201%C2%BA%20trimestre/Python/python_13.py)
+
+[Python_14.0](actividades%201%C2%BA%20trimestre/Python/python_14.0.py)
+
+[Python_14.1](actividades%201%C2%BA%20trimestre/Python/python_14.1.py)
+
+[Python_14.2](actividades%201%C2%BA%20trimestre/Python/python_14.2.py)
+
+[Python_14.3](actividades%201%C2%BA%20trimestre/Python/python_14.3.py)
+
+[Python_14.4](actividades%201%C2%BA%20trimestre/Python/python_14.4.py)
